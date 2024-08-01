@@ -34,7 +34,7 @@ local MainSection = MainTab:CreateSection("Scripts")
 local Button = MainTab:CreateButton({
    Name = "Infinite Yield",
    Callback = function()
-   loadstring(game:HttpGet(('https://raw.githubusercontent.com/EdgeIY/infiniteyield/master/source'),true))()
+   loadstring(game:HttpGet(('https://raw.githubusercontent.com/Alpointernet/some-scripts/main/InfiniteYield.txt'),true))()
   
     end,
         
