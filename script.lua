@@ -93,7 +93,7 @@ local Button = MainTab:CreateButton({
         
 })
 local Button = MainTab:CreateButton({
-   Name = "Fling All",
+   Name = "zart zort",
    Callback = function()
    loadstring(game:HttpGet("https://raw.githubusercontent.com/Alpointernet/some-scripts/main/Fling%20All%20People"))();  
             
