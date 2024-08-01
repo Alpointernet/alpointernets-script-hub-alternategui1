@@ -32,7 +32,7 @@ local MainTab = Window:CreateTab("Basic", nil) -- Title, Image
 local MainSection = MainTab:CreateSection("Scripts")
 
 local Button = MainTab:CreateButton({
-   Name = "Infinite Yield1",
+   Name = "Infinite Yield",
    Callback = function()
    loadstring(game:HttpGet(('https://raw.githubusercontent.com/EdgeIY/infiniteyield/master/source'),true))()
   
